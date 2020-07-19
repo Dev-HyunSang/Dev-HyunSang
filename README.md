@@ -10,8 +10,9 @@
 - 목포대학교 정보보호영재교육원 고등전문A
 
 ## Contact
-- [WebSite](http://parkhyunsang.com)
-- [Dev Log](https://hyunsang0625.github.io)
-- [Blog](https://dev-parkhyunsang.tistory.com/)
-- [Facebook](https://www.facebook.com/hyunsang0625/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/utilforever/)](https://www.facebook.com/hyunsang0625/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/hyunsang_0625)
+
 - hyun.sang@parkhyunsang.com / parkhyunsang@kakao.com
+- http://parkhyunsang.com
+- https://hyunsang0625.github.io
