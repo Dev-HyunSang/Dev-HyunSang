@@ -9,7 +9,7 @@
 - TeamGrit Study Front-End Developer
 
 <div style="display: table-cell; text-align: center;">
-  <img src="http://mokpojoongang.hs.jne.kr/user/mokpojoongang_hs/mycodyimages/logo.png" style="text-align: center;" />
+  <img src="http://mokpojoongang.hs.jne.kr/user/mokpojoongang_hs/school_img/upload__3adc8840_13c28bf7ddf__8000_00002651.jpg" style="text-align: center;" />
   <img src="http://secu.mokpo.ac.kr/groups/common/images/h_logo_eng_08_2.gif" style="text-align: center;" />
   <img src="https://teamgrit.kr/resource/home/img/Logo.png" style="text-align: center;" />
 </div>
