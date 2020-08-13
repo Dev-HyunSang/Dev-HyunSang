@@ -15,9 +15,11 @@
   <img src="https://teamgrit.kr/resource/home/img/Logo.png" style="text-align: center;" />
 </div>
 
+--------
+
 <div style="display: table-cell; text-align: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="80" height="80"/>
-  <img src="https://phoenix-web.pro/wp-content/uploads/2018/08/reac.jpg" width="80" height="80"/>
+  <img src="https://phoenix-web.pro/wp-content/uploads/2018/08/reac.jpg" width="80" height="80" />
   <img src="https://t1.daumcdn.net/cfile/tistory/996042405E82ACDD04" width="80" height="80"/>
   <img src="https://blog.kakaocdn.net/dn/cc6U0Q/btqvVD70W3a/gkFzb9XYCYobt6ZC5rNQKK/img.png" width="80" height="80"/>
 </div>
