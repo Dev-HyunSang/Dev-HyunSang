@@ -7,7 +7,7 @@
 
 - 목포 중앙고등학교 방송영상과 재학 중
 - 목포대학교 정보보호영재교육원 고등전문A
-- TeamGrit Study Front-End Developer
+- TeamGrit Front-End,WebRTC Student Developer
 
 <div style="display: table-cell; text-align: center;">
   <img src="http://mokpojoongang.hs.jne.kr/user/mokpojoongang_hs/school_img/upload__3adc8840_13c28bf7ddf__8000_00002651.jpg" style="text-align: center;" />
