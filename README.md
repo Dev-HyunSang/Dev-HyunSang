@@ -7,7 +7,7 @@
 
 - **목포 중앙고등학교 방송영상과 재학 중**
 - **목포대학교 정보보호영재교육원 고등전문A 재학 중**
-- [**TeamGRIT, Inc. Front-End,WebRTC Student Developer**](https://teamgrit.kr)
+- [**TeamGRIT, Inc. Front-End,WebRTC Developer**](https://teamgrit.kr)
 
 ## Contact
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/utilforever/)](https://www.facebook.com/hyunsang0625/)
