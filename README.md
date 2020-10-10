@@ -15,5 +15,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/hyunsang_0625)
 
 - hyun.sang@parkhyunsang.com / parkhyunsang@kakao.com
-- http://parkhyunsang.com
-- https://hyunsang0625.github.io
+- https://www.parkhyunsang.com
+- https://velog.io/@hyun_sang
