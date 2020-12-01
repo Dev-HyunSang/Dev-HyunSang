@@ -10,7 +10,7 @@ I am a Multi-Developer interested in Cyber Security, WebAssembly(C/C++), FrontEn
 
 ## 2019년 기록
 - [목포대학교 정보보호영재교육원 6기 고등전문](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2)
-- [Incognito / Security Conference 2019 | 허니팟, 스팸메일 분석 및 발표 (고려대학교 안암캠퍼스)]
+- [Incognito / Security Conference 2019 | 허니팟, 스팸메일 분석 및 발표 (고려대학교 안암캠퍼스)]()
 - [4권역 정보보호영재교육원 정보보안경진대회 예선 10등]()
 - [4권역 정보보호영재교육원 정보보안경진대회 본선 12]()
 - [한국정보보호학회 동계학술대회2019 참가](https://www.manuscriptlink.com/society/kiisc/conference/ciscw2019)
