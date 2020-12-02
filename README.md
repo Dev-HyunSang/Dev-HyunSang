@@ -2,9 +2,9 @@
 
 I am a Multi-Developer interested in Cyber Security, WebAssembly(C/C++), FrontEnd, and JavaScriptCore.
 
-![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HyunSang&layout=compact)
+
+![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
 
 ## 2019년
 - [목포대학교 정보보호영재교육원 6기 고등전문](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2)
