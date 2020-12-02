@@ -24,3 +24,6 @@ I am a Multi-Developer interested in Cyber Security, WebAssembly(C/C++), FrontEn
 - [4권역 정보보호영재교육원 정보보안경진대회 단체전 12등]()
 - [데이터야 놀자2020 Front End Developer](https://datayanolja.github.io/)
 - [제 2회 전국 고등학생 사이버 보안 경진대회 예선전](http://sc.anu.ac.kr/)
+
+## 2021년 | 준비중인 대회
+- [제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
