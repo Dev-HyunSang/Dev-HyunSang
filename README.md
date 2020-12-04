@@ -1,6 +1,6 @@
 # [박현상 HyunSang Park, Japser Park](https://www.parkhyunsang.com/)
 
-I am a Front-End Developer interested in Cyber Security, WebAssembly(C/C++), FrontEnd, and JavaScriptCore.
+Hello🤟🏻 I am a front-end developer and working in South Korea🇰🇷
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HyunSang&layout=compact)
 
