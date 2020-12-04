@@ -1,6 +1,6 @@
 # Hello, Everyone 🤘🏻
 
-I am a Multi-Developer interested in Cyber Security, WebAssembly(C/C++), FrontEnd, and JavaScriptCore.
+I am a Front-End Developer interested in Cyber Security, WebAssembly(C/C++), FrontEnd, and JavaScriptCore.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HyunSang&layout=compact)
 
