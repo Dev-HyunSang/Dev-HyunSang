@@ -4,7 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/Dev-HyunSang?style=social)
 ![Twitter](https://img.shields.io/twitter/follow/hyunsang_0625?style=social)
 
-Hello🤟🏻 I am a front-end developer and working in South Korea🇰🇷
+Hello🤟🏻 I am a Front-End Developer🧑🏻‍💻 and Working in South Korea🇰🇷
 
 ![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
 
