@@ -3,6 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-hyun.sang@parkhyunsang.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyun.sang@parkhyunsang.com)](mailto:hyun.sang@parkhyunsang.com)
 ![Followers](https://img.shields.io/github/followers/Dev-HyunSang?style=social)
 ![Twitter](https://img.shields.io/twitter/follow/hyunsang_0625?style=social)
+[![Facebook](https://img.shields.io/badge/-HyunSangPark-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.sang.0625)](https://www.facebook.com/hyun.sang.0625)
 
 Hello🤟🏻 I am a Front-End Developer🧑🏻‍💻 and Working in South Korea🇰🇷
 
