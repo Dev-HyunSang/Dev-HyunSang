@@ -22,5 +22,5 @@ In 2021, I will try to have one commit Everyday 🧑🏻‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HyunSang&layout=compact)
 
-### 목표
+### 🧪 목표
 - [제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
