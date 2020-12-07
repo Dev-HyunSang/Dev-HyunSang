@@ -9,7 +9,9 @@
 Hello🤟🏻 I am a Front-End Developer🧑🏻‍💻 and Working in South Korea🇰🇷
 
 > 완벽한 사람보다 더 열정 있는 사람이 되길 🔥
+
 > In 2021, I will try to have one commit Everyday 🧑🏻‍💻
+
 ![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
 
 ### 💻 Languages
