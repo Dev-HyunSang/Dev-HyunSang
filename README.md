@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/-HyunSangPark-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.sang.0625)](https://www.facebook.com/hyun.sang.0625)
 [![Instagram](https://img.shields.io/badge/-im_hyun.sang-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/im_hyun.sang/)
 
-Hello🤟🏻 I am a Front-End Developer🧑🏻‍💻 and Working in South Korea🇰🇷
+Hello🤟🏻 I am a Front-End Developer🧑🏻‍💻 , Cyber Security Student and Working in South Korea🇰🇷
 
 > 완벽한 사람보다 더 열정 있는 사람이 되길 🔥  
 In 2021, I will try to have one commit Everyday 🧑🏻‍💻
