@@ -17,8 +17,8 @@ In 2021, I will try to have one commit Everyday 🧑🏻‍💻
 - React.js (advanced)
 - Python (intermediate)
 - Node.js (beginner)
-- Typescript (beginner)
 - C++ (beginner)
+- Swift (beginner)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HyunSang&layout=compact)
 
