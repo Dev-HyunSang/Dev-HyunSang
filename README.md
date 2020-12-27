@@ -25,7 +25,7 @@ In 2021, I will try to have one commit Everyday 🧑🏻‍💻
 
 ## [TIL(Today I Learned) 🧑🏻‍💻](https://www.notion.so/hyunsang0625/TIL-Today-I-Learned-0e23ed9e31fb40f2a4f3cd0be041a46c)
 꾸준히 공부하는 모습을 찾아볼 수 없어서 꾸준히 지속적으로 공부하기 위해서 TIL List를 작성해서 공부합니다.
-- [**TIL LIST**](https://www.notion.so/hyunsang0625/TIL-Today-I-Learned-0e23ed9e31fb40f2a4f3cd0be041a46c)
+
 ## 🧪 목표
 - [제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
 - [한국코드페어 알고리즘 히어로즈(2021.05~06)](https://kcf.or.kr/codefair/program/heros)
