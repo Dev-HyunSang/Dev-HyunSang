@@ -11,7 +11,7 @@ Hello🤟🏻 I am a Software Engineer🧑🏻‍💻  Working in South Korea�
 - [**TeamGRIT, Inc**](https://teamgrit.kr/) Software Engineer (2020.09 ~ Current)
 Developing web Real-Time Streaming. I usually learn and develop using WebRTC and JavaScript.
 - [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2020.12.05)  
-**Completed 4 times in 4 years.** I studied information security through basic concepts of cybersecurity, cybersecurity ethics awareness, and cybersecurity practice.
+**Completed 4 times in 4 years.** I studied information security through basic concepts of cyber security, cyber security ethics awareness, and cyber security practice.
 
 > 완벽한 사람보다 더 열정 있는 사람이 되길 🔥  
 In 2021, I will try to have one commit Everyday 🧑🏻‍💻
