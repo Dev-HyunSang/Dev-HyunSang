@@ -13,8 +13,6 @@ Developing web Real-Time Streaming. I usually learn and develop using WebRTC and
 - [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2020.12.05)  
 **Completed 4 times in 4 years.** I studied information security through basic concepts of cyber security, cyber security ethics awareness, and cyber security practice.
 
-> 완벽한 사람보다 더 열정 있는 사람이 되길 🔥  
-In 2021, I will try to have one commit Everyday 🧑🏻‍💻
 
 ![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
 
@@ -31,6 +29,8 @@ In 2021, I will try to have one commit Everyday 🧑🏻‍💻
 ## [TIL(Today I Learned) 🧑🏻‍💻](https://www.notion.so/hyunsang0625/TIL-Today-I-Learned-0e23ed9e31fb40f2a4f3cd0be041a46c)
 꾸준히 공부하는 모습을 찾아볼 수 없어서 꾸준히 지속적으로 공부하기 위해서 TIL List를 작성해서 공부합니다.
 
-## 🧪 목표
-- [제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
-- [한국코드페어 알고리즘 히어로즈(2021.05~06)](https://kcf.or.kr/codefair/program/heros)
+## 🧪 Goal of 2021
+- [ ] Study Swift StoryBoard 
+- [ ] Study SwiftUI
+- [ ][제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
+- [ ][한국코드페어 알고리즘 히어로즈(2021.05~06)](https://kcf.or.kr/codefair/program/heros)
