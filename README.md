@@ -32,5 +32,5 @@ Developing web Real-Time Streaming. I usually learn and develop using WebRTC and
 ## 🧪 Goal of 2021
 - [ ] Study Swift StoryBoard 
 - [ ] Study SwiftUI
-- [ ][제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
-- [ ][한국코드페어 알고리즘 히어로즈(2021.05~06)](https://kcf.or.kr/codefair/program/heros)
+- [ ] [제 6회 국민대학교 알고리즘대회](https://softwarecontest.kookmin.ac.kr/)
+- [ ] [한국코드페어 알고리즘 히어로즈(2021.05~06)](https://kcf.or.kr/codefair/program/heros)
