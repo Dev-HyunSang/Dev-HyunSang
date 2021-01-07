@@ -21,8 +21,9 @@ Developing web Real-Time Streaming. I usually learn and develop using WebRTC and
 
 ## 💻 Languages
 - React.js (advanced)
-- Python (intermediate)
-- Node.js (beginner)
+- Back-End
+  - Node.js Express
+  - MySQL
 - C++ (beginner)
 - Swift (beginner)
   - iOS📱 Developement
