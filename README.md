@@ -6,7 +6,8 @@
 [![Facebook](https://img.shields.io/badge/-HyunSangPark-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.sang.0625)](https://www.facebook.com/hyun.sang.0625)
 [![Instagram](https://img.shields.io/badge/-im_hyun.sang-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/im_hyun.sang/)
 
-Hello🤟🏻 I am a Software Engineer🧑🏻‍💻  Working in South Korea🇰🇷
+Hello🤟🏻  I am a Software Engineer🧑🏻‍💻  Working in South Korea🇰🇷  
+I am mainly producing multimedia real-time services, and I am Studying and Developing hard to become a Full Stack Developer.
 
 - [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
