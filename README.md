@@ -20,13 +20,11 @@ Developing web Real-Time Streaming. I usually learn and develop using WebRTC and
 ![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
 
 ## 💻 Languages
-- React.js (advanced)
-- Back-End
-  - Node.js Express
-  - MySQL
-- C++ (beginner)
-- Swift (beginner)
-  - iOS📱 Developement
+- React.js
+- Node.js
+- C++
+- JavaScript
+- TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-HyunSang&layout=compact)
 
