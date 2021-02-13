@@ -16,5 +16,3 @@ Learning about broadcasting and video. I am learning about overall video product
 Developing web Real-Time Streaming. I usually learn and develop using WebRTC and JavaScript.
 - [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2020.12.05)  
 **Completed 4 times in 4 years.** I studied information security through basic concepts of cyber security, cyber security ethics awareness, and cyber security practice.
-
-![Dev-HyunSang's github stats](https://github-readme-stats.vercel.app/api?username=Dev-HyunSang&show_icons=true&theme=radical)
