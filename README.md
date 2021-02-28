@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/-im_hyun.sang-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/im_hyun.sang/)
 
 Hello🤟🏻  I am a Software Engineer and High School Student who is interested in social problems and law.   
-I have a plan to work on the law later🧑🏻‍⚖️
+I have a plan to work on the law later🧑🏻‍⚖️  
 I am mainly producing multimedia real-time services, and I am Studying and Developing hard to become a Full Stack Developer.
 
 - [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
