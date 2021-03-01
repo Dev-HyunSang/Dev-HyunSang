@@ -19,4 +19,4 @@ Developing web Real-Time Streaming. I usually learn and develop using WebRTC and
 **Completed 5 times in 5 years.** I studied information security through basic concepts of cyber security, cyber security ethics awareness, and cyber security practice.
 - [**Code for Korea**](https://codefor.kr) Organizer (2021.02.13~Current)  
 plays a central role in the network of citizens who engage in the Civic Hacker or Public Service Data Movement in Korea🇰🇷   
-Even if you are not an engineer, anyone, including planners, designers, lawyers, civil society activists, and public officials from related organizations, can join as a member of Code Four Korea🇰🇷
+Even if you are not an engineer, anyone, including planners, designers, lawyers, civil society activists, and public officials from related organizations.
