@@ -10,7 +10,7 @@ Hello🤟🏻  I am a Software Engineer and High School Student who is intereste
 I have a plan to work on the law later🧑🏻‍⚖️  
 I am mainly producing multimedia real-time services, and Studying and Developing hard to become a Full Stack Developer.
 
-> 뽐낼 건 있는 사람이 되자.
+> 하나 이상의 뽐낼 건 있는 사람이 되자.
 
 - [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
