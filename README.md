@@ -12,6 +12,12 @@ I am mainly producing multimedia real-time services, and Studying and Developing
 
 > 하나 이상의 뽐낼 건 있는 사람이 되자.
 
+>그대여, 사랑의 기괴함이란 이런 것이지요.  
+>의지는 무한한데 실행은 제한적이죠.  
+>욕망은 한량없으나 행동은 한계에 굴복하겠죠.   
+>**-윌리엄 셰익스피어**
+
+
 - [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
 
