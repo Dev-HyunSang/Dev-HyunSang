@@ -12,7 +12,7 @@
 >욕망은 한량없으나 행동은 한계에 굴복하겠죠.   
 >**-윌리엄 셰익스피어**
 
-
+## Studying📚 & Working🧑🏻‍💻
 - [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
 
