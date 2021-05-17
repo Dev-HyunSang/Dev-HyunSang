@@ -9,7 +9,7 @@
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
 
 - [**TeamGRIT, Inc**](https://teamgrit.kr/) | [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr)
-Software Engineer & Researcher (2020.09 ~ Current)   
+Software Engineering Researcher (2020.09 ~ Current)   
 Developing web Real-Time Streaming. I usually learn and develop using WebRTC and JavaScript.  
 
 - [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2021.12.03)  
