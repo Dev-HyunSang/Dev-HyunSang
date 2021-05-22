@@ -14,7 +14,7 @@ plays a central role in the network of citizens who engage in the Civic Hacker o
 Even if you are not an engineer, anyone, including planners, designers, lawyers, civil society activists, and public officials from related organizations.
 
 ## Links
-[**Facebook**](https://www.facebook.com/hyun.sang.0625/) | [**Instagram**](https://www.instagram.com/im_hyun.sang/) | [**Telegram**](https://t.me/hyun.sang) | [**RocketPuch**](https://www.rocketpunch.com/@hyun.sang)
+[**Facebook**](https://www.facebook.com/hyun.sang.0625/) | [**Instagram**](https://www.instagram.com/im_hyun.sang/) | [**Telegram**](https://t.me/hyun.sang) | [**RocketPuch**](https://www.rocketpunch.com/@hyun.sang) | [**Blog**](https://blog.parkhyunsang.com) | [**Web Site**](https://www.parkhyunsang.com)
 
 
 ## Programing Language 
