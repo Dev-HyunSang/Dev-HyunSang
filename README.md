@@ -4,8 +4,7 @@
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
 
 - [**TeamGRIT, Inc**](https://teamgrit.kr/) | [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr)
-Software Engineering Researcher (2020.09 ~ Current)   
-Developing web Real-Time Streaming. I usually learn and develop using WebRTC and JavaScript.  
+Architecture analysis and implementation for microservices, Back-End, Dev-Ops Engineering / Golang, AWS, k8s
 
 - [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2021.12.03)  
 **Completed 5 times in 5 years.** I studied information security through basic concepts of cyber security, cyber security ethics awareness, and cyber security practice.
@@ -13,11 +12,14 @@ Developing web Real-Time Streaming. I usually learn and develop using WebRTC and
 plays a central role in the network of citizens who engage in the Civic Hacker or Public Service Data Movement in Korea🇰🇷   
 Even if you are not an engineer, anyone, including planners, designers, lawyers, civil society activists, and public officials from related organizations.
 
-## Links
+<div align="center">
+  
 [**Facebook**](https://www.facebook.com/hyun.sang.0625/) | [**Instagram**](https://www.instagram.com/im_hyun.sang/) | [**Telegram**](https://t.me/hyun.sang) | [**RocketPuch**](https://www.rocketpunch.com/@hyun.sang) | [**Blog**](https://blog.parkhyunsang.com) | [**Web Site**](https://www.parkhyunsang.com)
 
-## Programing Language 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" widht="50" height="50"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50"></code>
-<code><img src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="50" height="50"></code>
-<code><img src="https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo.png" width="50" height="50"></code>
+</div>
+  
+<div align="center">
+  
+[![HyunSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hyunsang)](https://github.com/dev-hyunsang/github-readme-stats)
+  
+ </div>
