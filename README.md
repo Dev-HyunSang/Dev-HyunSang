@@ -3,7 +3,7 @@
 - [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
 Learning about broadcasting and video. I am learning about overall video production and multimedia.
 
-- [**TeamGRIT, Inc**](https://teamgrit.kr/) | [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr)
+- [**TeamGRIT, Inc**](https://teamgrit.kr/) | [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr) Software Engineering Researcher   
 Architecture analysis and implementation for microservices, Back-End, Dev-Ops Engineering / Golang, AWS, k8s
 
 - [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2021.12.03)  
