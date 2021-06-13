@@ -20,6 +20,7 @@ Even if you are not an engineer, anyone, including planners, designers, lawyers,
   
 <div align="center">
   
-[![HyunSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hyunsang)](https://github.com/dev-hyunsang/github-readme-stats)
+[![HyunSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hyunsang)](https://github.com/dev-hyunsang/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hyunsang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
