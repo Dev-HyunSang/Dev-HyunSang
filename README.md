@@ -18,10 +18,3 @@
 [**Facebook**](https://www.facebook.com/hyun.sang.0625/) | [**Instagram**](https://www.instagram.com/im_hyun.sang/) | [**Telegram**](https://t.me/hyun.sang) | [**RocketPuch**](https://www.rocketpunch.com/@hyun.sang) | [**Blog**](https://blog.parkhyunsang.com) | [**Web Site**](https://www.parkhyunsang.com)
 
 </div>
-  
-<div align="center">
-  
-[![HyunSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hyunsang)](https://github.com/dev-hyunsang/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hyunsang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
