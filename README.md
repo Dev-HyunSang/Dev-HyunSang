@@ -1,16 +1,17 @@
 # [박현상 HyunSang Park, Aaron Park](https://www.parkhyunsang.com/)
 
-- [**Mokpo Jungang High School**](https://mokpojoongang.hs.jne.kr) Broadcast video Student (2020.03~2023.02)  
-Learning about broadcasting and video. I am learning about overall video production and multimedia.
+- [**목포 중앙고등학교**](https://mokpojoongang.hs.jne.kr) 방송영상과 학생(2020.03~2023.02)  
+  기본적인 영상 이론에 배우고 영상을 만드는 방법에 대해서 공부하고 있습니다.
 
-- [**TeamGRIT, Inc**](https://teamgrit.kr/) | [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr) Software Engineering Researcher   
-Architecture analysis and implementation for microservices, Back-End, Dev-Ops Engineering / Golang, AWS, k8s
+- [**TeamGRIT, Inc**](https://teamgrit.kr/) | [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr) Software Engineer & Researcher  
+  System & Microservice Architecture에 대해서 연구하고 있습니다.   
+  자사 실시간 미디어 Spider 서버와 연결된 서비스 시스템 Hornet을 개발하고 있습니다.  
+  또한 [**TeamGRIT 기술 블로그**](https://teamgrit-tech.github.io/)를 운영하고 있습니다.
 
-- [**Mokpo National University Academy of Certified Ethical Hacker**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) Student (2017.02~2021.12.03)  
-**Completed 5 times in 5 years.** I studied information security through basic concepts of cyber security, cyber security ethics awareness, and cyber security practice.
+- [**목포대학교 정보보호영재교육원**](http://secu.mokpo.ac.kr/index.9is?contentUid=4a94e39d5f702dab015f8fa6b7e414b2) 고등전문A 수료 중(2017.02~2021.12.03)  
+  총 5년 동안 5번의 수료 과정을 걸쳤습니다. 2021년 현재는 고등전문A 과정을 수료 중이고 웹 해킹 분야를 수료 중입니다.
 - [**Code for Korea**](https://codefor.kr) Organizer (2021.02.13~Current)  
-plays a central role in the network of citizens who engage in the Civic Hacker or Public Service Data Movement in Korea🇰🇷   
-Even if you are not an engineer, anyone, including planners, designers, lawyers, civil society activists, and public officials from related organizations.
+  다양한 분들과 시빅해킹을 통해 안전하고 신뢰할 수 있는 사회를 만들어 나가고 있습니다.
 
 <div align="center">
   
