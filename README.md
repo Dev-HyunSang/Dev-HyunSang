@@ -2,6 +2,12 @@
 Hello! I'm HyunSang Park, and I'm very interested in SRE(Site Reliability Engineering) and Back-End.  
 I usually use Golang and I am interested in Cloud, so I am working on various projects using AWS, NCP, GCP, etc!
 
+<div align="center">
+  
+[**Portfolio**](https://www.parkhyunsang.com) **|** [**Software Engineering Wiki**](https://hyunsang0625.notion.site/Software-Engineering-Wiki-aff77b33f0294431b1002486a383bf44) 
+  
+</div>
+
 ## 🍳 Skill
 ### 🧑🏻‍💻 Platform & Programming Language
 <a><img src="https://img.shields.io/badge/Go-4DD0E1?style=flat-square&logo=Go&logoColor=white"/></a>
