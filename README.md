@@ -4,7 +4,7 @@ I usually use Golang and I am interested in Cloud, so I am working on various pr
 
 <div align="center">
   
-[**Portfolio**](https://www.parkhyunsang.com) **|** [**Software Engineering Wiki**](https://hyunsang0625.notion.site/Software-Engineering-Wiki-aff77b33f0294431b1002486a383bf44) 
+[**Portfolio & Tech Blog**](https://parkhyunsang.com)
   
 </div>
 
