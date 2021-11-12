@@ -1,9 +1,7 @@
 # [박현상 HyunSang Park, Aaron Park](https://parkhyunsang.com/)
-Hello! I'm HyunSang(Aaron) Park, and I'm very interested in SRE(Site Reliability Engineering) and Back-End.  
-I usually use Golang and I am interested in Cloud, so I am working on various projects using AWS, NCP, GCP, etc!
-
 <div align="center">
   
+**Software Enginner & Researcher + Gopher**  
 [**Portfolio & Tech Blog**](https://parkhyunsang.com)
   
 </div>
