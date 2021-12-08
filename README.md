@@ -6,6 +6,11 @@
   
 </div>
 
+## Career
+- [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
+  - Media Storage Software Development at Go
+  - Infrastructure at AWS
+
 ## 🍳 Skill
 ### 🧑🏻‍💻 Platform & Programming Language
 <a><img src="https://img.shields.io/badge/Go-4DD0E1?style=flat-square&logo=Go&logoColor=white"/></a>
