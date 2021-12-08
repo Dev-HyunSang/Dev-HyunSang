@@ -6,7 +6,7 @@
   
 </div>
 
-## Career
+## 🧑🏻‍💻 Career
 - [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
   - Media Storage Software Development at Go
   - Infrastructure at AWS
