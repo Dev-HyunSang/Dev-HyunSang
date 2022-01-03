@@ -1,4 +1,4 @@
-# [박현상 HyunSang Park, Aaron Park](https://parkhyunsang.com/)
+# [박현상 HyunSang Park, Éavan Park](https://parkhyunsang.com/)
 <div align="center">
   
 **Software Enginner & Researcher + Gopher**  
