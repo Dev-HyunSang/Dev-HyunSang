@@ -12,7 +12,8 @@
   - Infrastructure at AWS
 
 ## 🍳 Skill
-### 🧑🏻‍💻 Platform & Programming Language
+
+<div align="center">
 <a><img src="https://img.shields.io/badge/Go-4DD0E1?style=flat-square&logo=Go&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
@@ -21,12 +22,13 @@
 <a><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
-
-### 🛠 Tools
 <a><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
-
-<img src="https://ghchart.rshah.org/dev-hyunsang" />
+</div>
+  
+<div align="center">
+  <img src="https://ghchart.rshah.org/dev-hyunsang" />
+</div>
