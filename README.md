@@ -2,18 +2,9 @@
 <div align="center">
   
 **Software Enginner & Researcher + Gopher**  
-[**Portfolio & Tech Blog**](https://parkhyunsang.com)
+[**HyunSang's Tech Blog**](https://parkhyunsang.com)  
+[**HyunSang's TIL(Today I Learned)**](http://parkhyunsang.com/TIL/)
   
-</div>
-
-## 🧑🏻‍💻 Career
-- [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
-  - Media Storage Software Development at Golang
-  - Infrastructure at AWS
-
-## 🍳 Skill
-
-<div align="center">
 <a><img src="https://img.shields.io/badge/Go-4DD0E1?style=flat-square&logo=Go&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
@@ -27,8 +18,12 @@
 <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
-</div>
   
-<div align="center">
-  <img src="https://ghchart.rshah.org/dev-hyunsang" />
+<img src="https://ghchart.rshah.org/dev-hyunsang" />  
 </div>
+
+
+## 🧑🏻‍💻 Career
+- [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
+  - Media Storage Software Development at Golang
+  - Infrastructure at AWS
