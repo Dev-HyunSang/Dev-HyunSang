@@ -1,7 +1,7 @@
 # [박현상 HyunSang Park, Éllen Park](https://parkhyunsang.com/)
 <div align="center">
   
-**Software Enginner & Researcher + Gopher**  
+**Software Enginner**  
 [**HyunSang's Tech Blog**](https://parkhyunsang.com)  
 [**HyunSang's TIL(Today I Learned)**](http://parkhyunsang.com/TIL/)
   
@@ -18,7 +18,9 @@
 <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
-  
+
+![HyunSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hyunsang&show_icons=true&theme=dracula)
+
 <img src="https://ghchart.rshah.org/dev-hyunsang" />  
 </div>
 
