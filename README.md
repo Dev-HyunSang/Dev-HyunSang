@@ -19,6 +19,8 @@
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hyunsang&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![HyunSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hyunsang&show_icons=true&theme=dracula)
 
 <img src="https://ghchart.rshah.org/dev-hyunsang" />  
