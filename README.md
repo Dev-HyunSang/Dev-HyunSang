@@ -2,8 +2,9 @@
 <div align="center">
   
 **Software Enginner**  
-[**HyunSang's Tech Blog**](https://parkhyunsang.com)  
-[**HyunSang's TIL(Today I Learned)**](http://parkhyunsang.com/TIL/)
+[**me@hyunsang.dev**](mailto:me@hyunsang.dev) / [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr)   
+[**HyunSang's Tech Blog**](https://hyunsang.dev)  
+[**HyunSang's TIL(Today I Learned)**](http://hyunsang.dev/TIL/)
   
 <a><img src="https://img.shields.io/badge/Go-4DD0E1?style=flat-square&logo=Go&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
