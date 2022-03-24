@@ -1,7 +1,13 @@
 # [박현상 HyunSang Park, Éllen Park](https://parkhyunsang.com/)
-**Software Enginner & Researcher**
+**Junior Software Enginner**
 
-## Contact
+## 🛠 Tech Stack
+- Programing Language: Go, JavaScript(Vue.js)
+- ETC
+  - gRPC - Studying
+  - Kubernetes - Studying
+
+## 📇 Contact
 - Main. [**me@hyunsang.dev**](mailto:me@hyunsang.dev)
 - Work. [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr)   
 - [**HyunSang's Tech Blog**](https://hyunsang.dev)  
