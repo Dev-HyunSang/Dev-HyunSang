@@ -2,7 +2,7 @@
 **Junior Software Enginner**
 
 ## 🛠 Tech Stack
-- **Programing Language:** Go, JavaScript(Vue.js)
+- **Programing Language:** Go, JavaScript(Vue.js), Kotlin
 - **ETC**
   - gRPC - Studying
   - Kubernetes - Studying
