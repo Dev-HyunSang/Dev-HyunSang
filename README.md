@@ -8,8 +8,7 @@
   - Kubernetes - Studying
 
 ## 📇 Contact
-- Main. [**me@hyunsang.dev**](mailto:me@hyunsang.dev)
-- Work. [**hyun.sang@teamgrit.kr**](mailto:hyun.sang@teamgrit.kr)   
+- [**me@hyunsang.dev**](mailto:me@hyunsang.dev)
 - [**HyunSang's Tech Blog**](https://hyunsang.dev)  
 - [**HyunSang's TIL(Today I Learned)**](http://hyunsang.dev/TIL/)
 
