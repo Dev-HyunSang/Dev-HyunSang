@@ -15,8 +15,6 @@
 ## 🧑🏻‍💻 Career
 - [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
   - Development Back-End Video Solutions(Media Storage) at Golang
-  - Implementation of the Front-End for Simple Back-End Testing at Vue.js
-  - Infrastructure at Amazon Web Services & Naver Cloud Platform
 
 <div align="center">
   
