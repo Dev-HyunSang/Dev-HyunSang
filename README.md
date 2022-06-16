@@ -11,6 +11,7 @@
 - [**me@hyunsang.dev**](mailto:me@hyunsang.dev)
 - [**HyunSang's Tech Blog**](https://hyunsang.dev)  
 - [**HyunSang's TIL(Today I Learned)**](http://hyunsang.dev/TIL/)
+- [**HyunSang Park Portfolio**](http://about.hyunsang.dev)
 
 ## 🧑🏻‍💻 Career
 - [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
