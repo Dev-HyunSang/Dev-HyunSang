@@ -1,5 +1,6 @@
 # [박현상 HyunSang Park, Éllen Park](https://parkhyunsang.com/)
-**Junior Software Enginner**
+**Junior Software Enginner**, 주로 영상 관련 시스템(서비스)를 만들고 있어요.  
+재밌는 것들을 찾아서 만들어 보고 공부해 보고 있어요. 다양한 경험과 항상 공부하는 마음을 추구하고 있습니다.  
 
 ## 🛠 Tech Stack
 - **Programing Language:** Go, JavaScript(Vue.js), Kotlin
