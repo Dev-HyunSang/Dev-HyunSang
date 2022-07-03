@@ -1,25 +1,21 @@
-# [박현상 HyunSang Park, Éllen Park](https://parkhyunsang.com/)
-**Junior Software Enginner**, 주로 영상 관련 시스템(서비스)를 만들고 있어요.  
+# [박현상 · HyunSang Park](https://parkhyunsang.com/)
+**Junior Software Enginner**, Go언어를 사용해서 다양한 것들을 만들고 있어요. 요즘은 회사에서 미디어 스토리지를 개발하고 있어요.  
 재밌는 것들을 찾아서 만들어 보고 공부해 보고 있어요. 다양한 경험과 항상 공부하는 마음을 추구하고 있습니다.  
 
-## 🛠 Tech Stack
-- **Programing Language:** Go, JavaScript(Vue.js), Kotlin
-- **ETC**
-  - gRPC - Studying
-  - Kubernetes - Studying
+<p align = "center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp   
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS EC2-FF8C00?style=flat-square&logo=amazon ec2&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazon s3&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github actions&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp   
+</p>
 
 ## 📇 Contact
 - [**me@hyunsang.dev**](mailto:me@hyunsang.dev)
 - [**HyunSang's Tech Blog**](https://hyunsang.dev)  
 - [**HyunSang's TIL(Today I Learned)**](http://hyunsang.dev/TIL/)
 - [**HyunSang Park Portfolio**](http://about.hyunsang.dev)
-
-## 🧑🏻‍💻 Career
-- [**TeamGRIT, Inc.**](https://www.teamgrit.kr/) Software Engineer & Researcher - 2021.08.09 ~ Current
-  - Development Back-End Video Solutions(Media Storage) at Golang
-
-<div align="center">
-  
-  <img src="https://ghchart.rshah.org/dev-hyunsang" />  
-  
-</div>  
