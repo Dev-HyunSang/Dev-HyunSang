@@ -21,10 +21,3 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github actions&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp  
 </p>
-
-
-## 📇 Contact
-- [**me@hyunsang.dev**](mailto:me@hyunsang.dev)
-- [**HyunSang's Tech Blog**](https://hyunsang.dev)  
-- [**HyunSang's TIL(Today I Learned)**](http://hyunsang.dev/TIL/)
-- [**HyunSang Park Portfolio**](http://about.hyunsang.dev)
