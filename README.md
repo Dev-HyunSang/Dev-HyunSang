@@ -5,7 +5,7 @@
 > **Friedrich Nietzsche, 프리드리히 니체**
 
 ## Work Experience 🧑🏻‍💻
-- **Software Engineer @TeamGRIT, Inc(2021.08.09 ~ Current)**
+- **Software Engineer @TeamGRIT, Inc (2021.08.09 ~ Current)**
   - Media Storage Developement / Golang, SQLite, MySQL, FFmpeg, AWS(EC2, S3)
 
 ## Tech Stack 🛠
