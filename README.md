@@ -4,9 +4,11 @@
 > 꾸준하게 천천히 전진하다 보면, 어느새 당신의 꿈에 도달하여 목표를 달성할 수 있을 것이라고 확신한다. 결코 꿈을 포기하지 말라.”***  
 > **Friedrich Nietzsche, 프리드리히 니체**
 
-## Work Experience
+## Work Experience 🧑🏻‍💻
 - **Software Engineer @TeamGRIT, Inc(2021.08.09 ~ Current)**
+  - Media Storage Developement / Golang, FFmpeg, AWS(EC2, S3)
 
+## Tech Stack 🛠
 <p align = "center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp   
