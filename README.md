@@ -1,3 +1,8 @@
+- 스타트업에서 백엔드 소프트웨어 엔지니어로써 미디어 스토리지를 개발하고 있습니다.
+- Go언어를 굉장히 좋아하고 메인 언어로 개발하고 있습니다.
+- 다양한 분들과 이야기 하고 의견을 나누는 것과 커뮤니티 활동을 굉장히 좋아합니다.
+- 니체의 철학적 가치관에 관심이 있어서 공부하기 위해서 책과 자료들을 읽고 있습니다.
+
 > ***“Life is always stepping forward without stopping. And if you take steps forward slowly, then you will reach your goal and can achieve it.  
 > You Should not give up too.”  
 > “인생의 목적은 끊임없이 전진에 있다.  
