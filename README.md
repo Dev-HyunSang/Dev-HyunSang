@@ -11,7 +11,7 @@
 
 ## Work Experience 🧑🏻‍💻
 - **Software Engineer @TeamGRIT, Inc (2021.08.09 ~ Current)**
-  - Media Storage Developement / Golang, SQLite, MySQL, FFmpeg, AWS(EC2, S3)
+  - Media Storage Developement
 
 ## Tech Stack 🛠
 <p align = "center">
