@@ -12,11 +12,11 @@
 > You Should not give up too.”***  
 > **Friedrich Nietzsche**
 
-## Work Experience 🧑🏻‍💻
+### Work Experience 🧑🏻‍💻
 - **Software Engineer [@TeamGRIT, Inc](https://teamgrit.kr) (2021.08.09 ~ Current)**
   - Media Storage Developement
 
-## Tech Stack 🛠
+### Tech Stack 🛠
 <p align = "center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp   
