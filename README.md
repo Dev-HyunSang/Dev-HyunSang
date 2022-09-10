@@ -1,4 +1,4 @@
-# Hello! I am HyunSang Park 👋🏻
+## Hey!
 ### I am 🙆🏻
 - I am developing(engineering) media storage as a backend software engineer at a [TeamGRIT, Inc.](https://www.teamgrit.kr/)
 - I like the Golang very much and I am developing it as my main language.
