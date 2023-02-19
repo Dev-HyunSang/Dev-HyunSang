@@ -16,3 +16,11 @@
 > ***”모든 것의 시작은 위험하다. 그러나 무엇을 막론하고,  
 > 시작하지 않으면 아무것도 시작되지 않는다."***  
 > **프리드리히 니체의 "인간적인 너무나 인간적인"에서**
+
+> ***"You asked me if an ordinary person, by studying hard,  
+> would get to be able to imagine these things like I imagine of course!  
+> I was an ordinary person who studied hard. There's no miracle, people."  
+> "여러분이 제게, 평범한 사람이 열심히 공부해서 제가 상상하는 것들을  
+> 똑같이 상상할 수 있느냐고 묻는다면, 물론이죠!  
+> 저도 공부를 열심히 한 평범한 사람이예요. 기적은 없어요. 여러분."***   
+> **리처드 파인만, Richard Feynman(1918 ~ 1988)**
