@@ -11,7 +11,7 @@
 ## Affiliation
 - Back-End Software Enginner [@TeamGRIT, Inc.](https://www.teamgrit.kr/)
 - Organizer [@GDG Golang Korea](https://gdg.community.dev/gdg-golang-korea/)
-- B.S. @[Soonchunhyang University Information Security Engineering](https://home.sch.ac.kr/security/index.jsp)
+- B.S. [@Soonchunhyang University Information Security Engineering](https://home.sch.ac.kr/security/index.jsp)
 
 > ***”모든 것의 시작은 위험하다. 그러나 무엇을 막론하고,  
 > 시작하지 않으면 아무것도 시작되지 않는다."***  
