@@ -1,4 +1,5 @@
-- 실시간 미디어 솔루션(서비스)를 개발하고 있는 팀그릿에서 백엔드 소프트웨어 엔지니어로 일하고 있어요.  
+# Hey
+- 실시간 미디어 솔루션(서비스)를 개발하고 있는 팀그릿에서 백엔드 소프트웨어 엔지니어로 일하고 있어요x.  
 주로 Go언어를 통해서 미디어와 관련된 솔루션을 개발하고 있어요.
 - 좋은 기회가 생겨서 GDG Golang Korea에서 운영진으로써 한국에서 Go언어의 커뮤니티 활동을 다양한 분들과 함께하고 있어요.   
 제가 좋아하는 Go언어를 다양한 분들께서 살펴볼 수 있는 기회를 만들어볼 수 있다는 점에서 기분 좋게 활동하고 있어요 :)
@@ -10,7 +11,7 @@
 
 ## Affiliation
 - Back-End Software Enginner [@TeamGRIT, Inc.](https://www.teamgrit.kr/)
-- Organizer [@GDG Golang Korea](https://gdg.community.dev/gdg-golang-korea/)
+- Community Organizer [@GDG Golang Korea](https://gdg.community.dev/gdg-golang-korea/)
 - B.S. [@Soonchunhyang University Information Security Engineering](https://home.sch.ac.kr/security/index.jsp)
 
 > ***”모든 것의 시작은 위험하다. 그러나 무엇을 막론하고,  
