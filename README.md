@@ -8,11 +8,10 @@
 - 테크니컬 라이팅에 대해서 관심이 많아서 정보를 많이 살펴보고 실무에 도입하고자 노력하고 있어요.
 - 다양한 분들을 만나뵙고 이야기를 하고 듣는 것을 좋아해요. 기록의 가치를 중요시 여기면서 다양한 글을 쓰고 있습니다.  
 그리고 제 눈으로 보고 아름답고 인상 깊은 것을 사진으로 기록하고자 노력하고 있습니다.
-
-## Affiliation
-- Back-End Software Enginner [@TeamGRIT, Inc.](https://www.teamgrit.kr/)
-- Community Organizer [@GDG Golang Korea](https://gdg.community.dev/gdg-golang-korea/)
-- B.S. [@Soonchunhyang University Information Security Engineering](https://home.sch.ac.kr/security/index.jsp)
+- **Brief History:**
+  - Back-End Software Enginner [@TeamGRIT, Inc.](https://www.teamgrit.kr/)
+  - Community Organizer [@GDG Golang Korea](https://gdg.community.dev/gdg-golang-korea/)
+  - B.S. [@Soonchunhyang University Information Security Engineering](https://home.sch.ac.kr/security/index.jsp)
 
 > ***”모든 것의 시작은 위험하다. 그러나 무엇을 막론하고,  
 > 시작하지 않으면 아무것도 시작되지 않는다."***  
