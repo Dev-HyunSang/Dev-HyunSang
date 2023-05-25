@@ -32,7 +32,8 @@ func (info *HyunSangInfo) NewHyunSang() *HyunSangInfo {
 		"Language": "Golang, Rust 🦀, JavaScript(Vue.js)",
 		"Database": "MySQL, MongoDB, SQLite, Redis",
 		"Cloud":    "Amazon Web Services, Azure, Naver Cloud Platform",
-		"CI/CD":    "GitHub Actions",
+		"CI/CD":    "GitHub Actions, Docker",
+		"Tools": "Slack, Google Docs, Notion"
 	}
 
 	return info
