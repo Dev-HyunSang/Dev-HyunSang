@@ -3,8 +3,6 @@
 - **Community Organizer [@GDG(Google Developers Group) Golang Korea](https://gdg.community.dev/gdg-golang-korea/)**
 - **Department Information Security Engineering Major [@Soonchunhyang University](https://home.sch.ac.kr/security/index.jsp)**
 
----
-
 ```go
 type HyunSangInfo struct {
 	Name       string
