@@ -28,6 +28,7 @@
 </details> 
 <details>
 	<summary><b>👥 Experience</b></summary>
+	<h3>참가자 @국방부 사이버작전사령부 사이버작전경연대회 2020</h3>
 	<h3>Organizer <a href="https://gdg.community.dev/gdg-golang-korea/">@GDG Golang Korea</a> (2023.02 ~ Current)</h3>
 	<h3>Organizer <a href="https://gophercon.kr">@GopherCon Korea 2023</a> (2023.05 ~ 2023.08)</h3>
 </details> 
