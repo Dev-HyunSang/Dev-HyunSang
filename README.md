@@ -29,5 +29,5 @@
 <details>
 	<summary><b>👥 Experience</b></summary>
 	<h3>Organizer <a href="https://gdg.community.dev/gdg-golang-korea/">@GDG Golang Korea</a> (2023.02 ~ Current)</h3>
-	<h3>Organizer <a href="https://teamgrit.kr">@GopherCon Korea 2023</a> (2023.05 ~ 2023.08)</h3>
+	<h3>Organizer <a href="https://gophercon.kr">@GopherCon Korea 2023</a> (2023.05 ~ 2023.08)</h3>
 </details> 
