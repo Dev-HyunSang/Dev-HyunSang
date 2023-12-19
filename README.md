@@ -7,6 +7,12 @@
 
 <b style="font-size: 20px;">Good Bye 2023 👋🏻, Good Morning 2024 🎉</b>
 
+## I'm
+- Undundergraduate Student [@Soonchunhyang University Department Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
+- Organizer [@Google for Developers Golang Korea](https://gdg.community.dev/gdg-golang-korea/) (2023.02 ~ Current)
+- Software Engineer [@TeamGRIT, Inc.(https://www.teamgrit.kr/) (2021.08 ~ 2023.08)
+
+## Contact
 - **Email:** [`me@hyunsang.dev`](mailto:me@hyunsang.dev)
 - **Blog.** [`hyunsang.dev`](https://hyunsang.dev)
 - **About Me:** [`about.hyunsang.dev`](https://about.hyunsang.dev)
