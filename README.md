@@ -3,6 +3,7 @@
 - Back-End Developments / Data Analysis(+ Deep Learning) / Cyber Security / Team Culture
 - **Back-End Developments -** Golang, Java
 - **Cyber Security -** Web Hacking(SQL Injection · Server Side Template Injection · ETC), Case & Trend Analysis
+- **Programming Language -** `Golang`, `JavaScript`, `Python`
 
 ## I'm 🙋🏻
 - Undundergraduate Student [@Soonchunhyang University Department of Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
