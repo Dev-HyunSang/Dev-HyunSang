@@ -1,6 +1,6 @@
 # 박현상, HyunSang Park 🥷🏻
 **My Interests:**
-- Back-End Developments / Data Analysis(+ Deep Learning) / Cyber Security / Team Culture
+- Back-End Developments / Cyber Security Researching / Team Culture
 - **Back-End Developments -** Golang, Java
 - **Cyber Security -** Web Hacking(SQL Injection · Server Side Template Injection · ETC), Case & Trend Analysis
 - **Programming Language -** `Golang`, `JavaScript`, `Python`
