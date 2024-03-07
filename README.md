@@ -4,7 +4,7 @@
 - **Cyber Security -** Web Hacking(SQL Injection · Server Side Template Injection · ETC), Case & Trend Analysis
 - **Programming Language -** `Golang`, `JavaScript`, `Python`
 
-- **With Me:**
+**With Me:**
   - Undundergraduate Student [@Soonchunhyang University Department of Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
   - Organizer [@Google for Developers Golang Korea](https://gdg.community.dev/gdg-golang-korea/) (2023.02 ~ Current)
   - Software Engineer [@TeamGRIT, Inc.](https://www.teamgrit.kr/) (2021.08 ~ 2023.08)
