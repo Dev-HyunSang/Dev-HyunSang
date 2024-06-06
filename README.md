@@ -3,7 +3,7 @@
 - **Programming Language -** Golang, JavaScript, Python
   - **Golang -** Back-End & CI/CD
   - **JavaScript -** `Node.js Express`, `Vue.js`
-  - **Python -** Data Analytics
+  - **Python -** Data Analytics · Data Processing
 - **Cyber Security** 
   - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
   - CTI(Cyber-Threat Intelligence)
