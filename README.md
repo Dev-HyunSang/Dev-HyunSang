@@ -2,7 +2,8 @@
 **My Interests:**
 - **Programming Language -** Golang, JavaScript, Python
   - **Golang -** Back-End & CI/CD
-  - **JavaScript** - `Node.js Express`, `Vue.js`
+  - **JavaScript -** `Node.js Express`, `Vue.js`
+  - **Python -** Data Analytics
 - **Cyber Security** 
   - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
   - CTI(Cyber-Threat Intelligence)
