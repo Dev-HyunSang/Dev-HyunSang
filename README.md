@@ -1,14 +1,17 @@
 # 박현상, HyunSang Park 🥷🏻
 **My Interests:**
-- **Back-End Developments -** Golang, Java
-- **Cyber Security -** Web Hacking(SQL Injection · Server Side Template Injection · ETC), Case & Trend Analysis
-- **Programming Language -** `Golang`, `JavaScript`, `Python`
+- **Programming Language -** Golang, JavaScript, Python
+  - **Golang -** Back-End & CI/CD
+  - **JavaScript** - `Node.js Express`, `Vue.js`
+- **Cyber Security** 
+  - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
+  - CTI(Cyber-Threat Intelligence)
 
 **With Me:**
   - Undundergraduate Student [@Soonchunhyang University Department of Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
   - Organizer [@Google for Developers Golang Korea](https://gdg.community.dev/gdg-golang-korea/) (2023.02 ~ Current)
+  - Information Security MOS [@ROK Army](https://www.army.mil.kr/sites/army/index.do) / in ROKA HQ (2024.03.18 ~ 2025.09.17) 
   - Software Engineer [@TeamGRIT, Inc.](https://www.teamgrit.kr/) (2021.08 ~ 2023.08)
-  - Information Security MOS [@ROK Army](https://www.army.mil.kr/sites/army/index.do) (2024.03.18 ~ 2025.09.17)
 
 ## Contact
 - **Email:** [`me@hyunsang.dev`](mailto:me@hyunsang.dev)
