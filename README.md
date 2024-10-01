@@ -1,4 +1,4 @@
-# 박현상, HyunSang Park 🥷🏻
+# 박현상, HyunSang ParK
 **My Interests:**
 - **Programming Language -** Golang, JavaScript, Python
   - **Golang -** Back-End & CI/CD
@@ -7,6 +7,8 @@
 - **Cyber Security** 
   - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
   - CTI(Cyber-Threat Intelligence)
+- **Law:**
+  -  
 
 **With Me:**
   - Undundergraduate Student [@Soonchunhyang University Department of Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
