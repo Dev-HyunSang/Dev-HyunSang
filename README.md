@@ -6,9 +6,8 @@
   - **Python -** Data Analytics · Processing
 - **Cyber Security** 
   - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
-  - CTI(Cyber-Threat Intelligence)
 - **Law:**
-  -  
+  - 형사법, 민사법, 개인정보 보호와 관련된 법률 
 
 **With Me:**
   - Undundergraduate Student [@Soonchunhyang University Department of Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
