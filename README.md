@@ -4,6 +4,7 @@
   - **Golang -** Back-End & CI/CD
   - **JavaScript -** `Node.js Express`, `Vue.js`
   - **Python -** Data Analytics · Processing
+  - **Rust**
 - **Cyber Security** 
   - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
   - DPRK Cyber (Threat) Intelligence
