@@ -6,18 +6,21 @@
   - **Python -** Data Analytics · Processing
 - **Cyber Security** 
   - Web Hacking(SQL Injection · Server Side Template Injection · ETC)
+  - DPRK Cyber (Threat) Intelligence
 - **Law:**
   - 형사법, 민사법, 개인정보 보호와 관련된 법률 
 
-**With Me:**
+## Experience
+- **Study:**
   - Undundergraduate Student [@Soonchunhyang University Department of Infomation Security](https://home.sch.ac.kr/security/index.jsp) (2023.02 ~ Current)
+  - Trainee [@Mokpo University Information Protection Gifted Education Center](https://dream.mokpo.ac.kr/dream/index.do) (2017 ~ 2021)
+- **With whom:**
   - Organizer [@Google for Developers Golang Korea](https://gdg.community.dev/gdg-golang-korea/) (2023.02 ~ Current)
-  - Information Security MOS [@ROK Army](https://www.army.mil.kr/sites/army/index.do) / ROKA HQ (2024.03.18 ~ 2025.09.17) 
+- **Work:**
+  - Information Security MOS [@ROK Army](https://www.army.mil.kr/sites/army/index.do) (2024.03.18 ~ 2025.09.17) 
   - Software Engineer [@TeamGRIT, Inc.](https://www.teamgrit.kr/) (2021.08 ~ 2023.08)
 
 ## Contact
 - **Email:** [`me@hyunsang.dev`](mailto:me@hyunsang.dev)
 - **Blog.** [`hyunsang.dev`](https://hyunsang.dev)
-- **About Me:** [`about.hyunsang.dev`](https://about.hyunsang.dev)
 - **Linkedin:** [`@parkhyunsang`](https://www.linkedin.com/in/parkhyunsang/)
-- **Twitter:** [`@dev-hyunsang`](https://twitter.com/dev_hyunsang)
