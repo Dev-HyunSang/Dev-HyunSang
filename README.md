@@ -1,6 +1,6 @@
-# Hey, I'm HyunSang Lev Park
+# Hey, I'm HyunSang Park
 
-## Work
+## My History
 
 ### 정보보호(사이버관제)병 @육군(본부) 사이버작전센터 O작전단
 - 육군 내 · 외 사이버 위협 탐지 및 침해사고 대응
