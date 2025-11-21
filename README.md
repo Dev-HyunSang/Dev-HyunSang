@@ -1,5 +1,13 @@
 # Hey, I'm HyunSang Park
 
+- Cyber Security
+  - Web Vulnerability Researching
+  - OSINT(Open-Source Intelligence)
+- Web Full-Stack Development
+  - Back-End - Golang · Node.js
+  - Front-End - Vue
+  - DataBase - MySQL · SQLite · Redis · AWS S3  
+
 ## My History
 
 ### 정보보호(사이버관제)병 @육군(본부) 사이버작전센터 O작전단
