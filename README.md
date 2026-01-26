@@ -4,9 +4,10 @@
   - Web Vulnerability Researching
   - OSINT(Open-Source Intelligence)
 - Web Full-Stack Development
-  - Back-End - Golang · Node.js
-  - Front-End - Vue
-  - DataBase - MySQL · SQLite · Redis · AWS S3  
+  - Back-End - Golang(`net/http` · `gofiber/fiber`), Node.js(Express · NestJS)
+  - Front-End - VueJS, Flutter
+  - DataBase - MySQL, SQLite, Redis, AWS S3 · CloudFront
+  - ETC - CloudFlare, Docker, GitHub Action
 
 ## My History
 
