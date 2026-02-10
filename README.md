@@ -21,6 +21,10 @@
 - GopherCon Korea 2023 행사 기획 및 운영
   - 준비위원회 설립 및 운영 / 미디어팀 리드 / CoC팀
 
+### 학부생 @순천향대학교 정보보학과
+
+- 부전공) 법학 (2026.02 ~ 2029.02)
+
 ### Software Engineer @TeamGRIT, Inc. (2021.08 ~ 2023.09)
 - Go언어 기반 미디어 스토리지 개발
 - Skills - Golang, AWS S3 · EC2 · CloudFront · Docker · SQLite
