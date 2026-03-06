@@ -1,4 +1,4 @@
-# Hey, I'm HyunSang Park
+ㅌ# Hey, I'm HyunSang Park
 
 - Cyber Security
   - Web Vulnerability Researching
@@ -10,6 +10,9 @@
   - ETC - CloudFlare, Docker, GitHub Action
 
 ## My History
+
+### 미디어 담당 @파이콘 한국 준비위원회
+- park.hyunsang@python.or.kr
 
 ### 정보보호(사이버관제)병 @육군(본부) 사이버작전센터 O작전단 (2024.03 ~ 2025.09)
 - 육군 내 · 외 사이버 위협 탐지 및 침해사고 대응
