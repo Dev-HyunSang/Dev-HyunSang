@@ -1,4 +1,4 @@
-# Hey, I'm HyunSang Jeff Park
+# Hey, I'm HyunSang Park
 
 - Cyber Security
   - Web Vulnerability Researching
