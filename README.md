@@ -3,36 +3,30 @@
 - Cyber Security
   - Web Vulnerability Researching
   - OSINT(Open-Source Intelligence)
-- Web Full-Stack Development
+- Software Enginnering
   - Back-End - Golang(`net/http` · `gofiber/fiber`), Node.js(Express · NestJS)
   - Front-End - VueJS, Flutter
   - DataBase - MySQL, SQLite, Redis, AWS S3 · CloudFront
-  - ETC - CloudFlare, Docker, GitHub Action
+  - ETC - CloudFlare, Docker, GitHub Action, vLLM, Model Serving
 
-## My History
+## Work Experience
 
-### Organizer @파이콘 한국 준비위원회
+- **정보보호(사이버관제)병 @육군(본부) 사이버작전센터 O작전단 (2024.03 ~ 2025.09)**
+  - 육군 내 · 외 사이버 위협 탐지/차단 및 침해사고 대응
+    - OO망 등의 보안관제 및 침해사고 대응
+  - Skills - AhnLab UTM · TMS · IPS, Genians NAC, Splunk SIEM, AhnLab SOAR
 
-- 미디어팀 리드
-- park.hyunsang@python.or.kr / park.hyunsang@pycon.kr
+- **Software Engineer [@TeamGRIT, Inc.](https://teamgrit.kr) (2021.08 ~ 2023.09)**
+  - Go언어 기반 미디어 스토리지 개발
+  - Skills - Golang, AWS S3 · EC2 · CloudFront · Docker · SQLite
 
-### 정보보호(사이버관제)병 @육군(본부) 사이버작전센터 O작전단 (2024.03 ~ 2025.09)
+## Extra-curricular activities
 
-- 육군 내 · 외 사이버 위협 탐지 및 침해사고 대응
-  - OO망 등의 보안관제 및 침해사고 대응
-- Skills - AhnLab UTM · TMS · IPS, Genians NAC, Splunk SIEM, AhnLab SOAR
+- **Organizer [@파이콘 한국 준비위원회](https://pycon.kr)**
+  - 미디어팀 리드
+  - Email - `park.hyunsang@python.or.kr` / `park.hyunsang@pycon.kr`
 
-### Organizer @GDG Golang Korea (2023.02 ~ 2024.03)
-
-- Go언어 커뮤니티 활성화를 위한 행사 기획 및 운영
-- GopherCon Korea 2023 행사 기획 및 운영
-  - 준비위원회 설립 및 운영 / 미디어팀 리드 / CoC팀
-
-### 학부생 @순천향대학교 정보보호학과
-
-- 부전공) 법학 (2026.02 ~ 2029.02)
-
-### Software Engineer @TeamGRIT, Inc. (2021.08 ~ 2023.09)
-
-- Go언어 기반 미디어 스토리지 개발
-- Skills - Golang, AWS S3 · EC2 · CloudFront · Docker · SQLite
+- **Organizer [@GDG Golang Korea](https://gdg.community.dev/gdg-golang-korea/) (2023.02 ~ 2024.03)**
+  - Go언어 커뮤니티 활성화를 위한 행사 기획 및 운영
+  - GopherCon Korea 2023 행사 기획 및 운영
+    - 준비위원회 설립 및 운영 / 미디어팀 리드 / CoC팀
