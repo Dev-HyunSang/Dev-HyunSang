@@ -10,6 +10,10 @@
   - **CI/CD -** CloudFlare, Docker, Kubernetes, GitHub Action
   - **AI Agent -** Codex, Claude Code
 
+## Education
+
+- Undergraduate Student(M.S.) [@Soonchunhyang University Information Security](https://home.sch.ac.kr/security/index.jsp)
+
 ## Work Experience
 
 - **Cyber Security MOS @ROK Army(Headquarters) Cyber Operations Center (2024.03. – 2025.09.)**
