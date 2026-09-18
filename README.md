@@ -13,8 +13,11 @@
 ## Education
 
 - Undergraduate Student(M.S.) [@Soonchunhyang University Information Security](https://home.sch.ac.kr/security/index.jsp)
+  - Minor in Law 
 
 ## Work Experience
+
+- **Software Engineer [@Alan, Inc.](https://www.alango.xyz/) (2026.09 - Current)**
 
 - **Cyber Security MOS @ROK Army(Headquarters) Cyber Operations Center (2024.03. – 2025.09.)**
   - **CERT(Computer Emergency Response Team)**
@@ -23,7 +26,7 @@
   - Monitoring of cyber attacks in coordination with higher-level and subordinate units
   - Skills - AhnLab UTM · TMS · IPS, Genians NAC, Splunk SIEM, AhnLab SOAR
 
-- **Software Engineer [@TeamGRIT, Inc.](https://teamgrit.kr) (2021.08 ~ 2023.09)**
+- **Software Engineer [@TeamGRIT, Inc.](https://teamgrit.kr) (2021.08 - 2023.09)**
   - Development of Media Storage Based on the Golang
   - Skills - Golang, AWS S3 · EC2 · CloudFront · Docker · SQLite
 
