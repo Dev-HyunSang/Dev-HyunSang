@@ -5,10 +5,9 @@
   - Incident Response - Network
  
 - **Software Enginnering:**
-  - **Programming Language -** Golang, JavaScript, TypeScript, Python, Flutter
-  - **DataBase -** MySQL, PostgreSQL, SQLite, Redis, AWS S3 · CloudFront
-  - **CI/CD -** CloudFlare, Docker, Kubernetes, GitHub Action
-  - **AI Agent -** Codex, Claude Code
+  - Back-End Enginnering
+  - Machine Learning, Physical Computing, MLOps
+    - MediaPipe, PyTorch
 
 ## Education
 
